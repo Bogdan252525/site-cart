@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/site-cart/static/css/main.f01eff27.css",
+    "main.js": "/site-cart/static/js/main.abfaf031.js",
+    "static/media/bg.jpeg": "/site-cart/static/media/bg.f2f7334e7727f6088cec.jpeg",
+    "index.html": "/site-cart/index.html",
+    "main.f01eff27.css.map": "/site-cart/static/css/main.f01eff27.css.map",
+    "main.abfaf031.js.map": "/site-cart/static/js/main.abfaf031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01eff27.css",
+    "static/js/main.abfaf031.js"
+  ]
+}
